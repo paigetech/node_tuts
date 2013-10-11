@@ -1,0 +1,17 @@
+{
+  "name": "PaigeNodeTuts",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "mongodb": "*",
+    "nodemon": "*",
+    "passport": "*",
+    "passport-local": "*",
+    "mongodb": "*"
+  }
+}
